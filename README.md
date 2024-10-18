@@ -7,6 +7,9 @@ But first things first.
 - original packaging if possible (big box > jewel case)
 - additional real/fake jewel-box covers for people who want to have everything 'squared' (512x512pix)
 - boxarts - high(er) resolution sources and more natural colors (download to compare)
-- new titles/pics will be added in original resolution (320x256pix x 8bit, probabably 95% of cases, some menus on multigame disks have higher resolution)
+- new titles/pics will be added in original resolution (320x256pix x 8bit, probabably 98% of cases, some menus on multigame disks have higher resolution)
 
 Next next step will be updating the WHDLoad database, it's quite old 
+
+In case of any problems/suggestions, please let me know.
+Cheers!
