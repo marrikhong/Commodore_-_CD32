@@ -4,8 +4,9 @@ A lot of people complain that games/thumbs don't show up automatically, that's w
 But first things first.
 
 - naming matches the Redump dat 2024-09-02
-- original packaging if possible (big box, jewel case)
+- original packaging if possible (big box > jewel case)
 - additional real/fake jewel-box covers for people who want to have everything 'squared' (512x512pix)
-- new titles/pics will be added in original resolution (320x256pix x 8bit, probabably 98% of cases)
+- boxarts - high(er) resolution sources and more natural colors (download to compare)
+- new titles/pics will be added in original resolution (320x256pix x 8bit, probabably 95% of cases, some menus on multigame disks have higher resolution)
 
 Next next step will be updating the WHDLoad database, it's quite old 
